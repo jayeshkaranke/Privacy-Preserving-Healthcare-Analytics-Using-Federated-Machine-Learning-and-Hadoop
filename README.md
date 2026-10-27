@@ -1,0 +1,2 @@
+# Privacy-Preserving-Healthcare-Analytics-Using-Federated-Machine-Learning-and-Hadoop
+give me in 2 3lines This project uses Machine Learning to estimate diabetes risk based on patient health data and provides health recommendations through a user-friendly dashboard. It uses Federated Learning to demonstrate privacy-preserving collaboration between hospitals and Hadoop for distributed healthcare data storage.
